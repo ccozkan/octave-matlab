@@ -1,6 +1,6 @@
 function [retval] = focof (a,N,T1,T2)
     syms x;
-    disp('an_____bn\n')
+    disp('an_____bn')
     sum=0;
     for n=1:1:N
         disp(n);
